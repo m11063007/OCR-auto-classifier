@@ -1,0 +1,24 @@
+# Python
+**/ycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Log
+*.log
+
+# OCR Cache
+temp/
+cache/
+
+# Poppler
+poppler-25.12.0/
+
+# Windows
+Thumbs.db
+Desktop.ini
