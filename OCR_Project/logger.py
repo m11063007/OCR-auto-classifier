@@ -1,3 +1,4 @@
+#日誌紀錄，用來管理一般資訊(Log)和報錯(error)
 import logging
 
 logging.basicConfig(
